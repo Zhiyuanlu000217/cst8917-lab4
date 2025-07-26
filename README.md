@@ -1,6 +1,6 @@
 # cst8917-lab4
 
-
+Youtube link: https://youtu.be/uBzmVBUQh-8
 ## architecture and Logic App steps
 
 As shown in ![workflow_image](./workflow.png), from top to down, We have the workflow that:
